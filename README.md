@@ -8,6 +8,8 @@
 
 TODO: вставить краткий обзор статьи, подходы и сравнение.
 
+ByT5 is tokenizer-free version of the T5 model designed to works directly on raw UTF-8 bytes. This means it can process any language, more robust to noise like typos, and simpler to use because it doesn’t require a preprocessing pipeline.
+
 Для удобного просмотра оставляю ссылку на их открытре решение:
 [whitespace-correction](https://github.com/ad-freiburg/whitespace-correction)
 
