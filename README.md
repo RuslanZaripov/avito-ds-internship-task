@@ -55,6 +55,7 @@
 | Dataset | Character Accuracy | Space Precision | Space Recall | Space F1 |
 |----------|----------|----------|----------|----------|
 | [russian-literature](https://www.kaggle.com/datasets/d0rj3228/russian-literature) | 0.767300 | 0.943574 | 0.944903 | 0.943664  |
+| [ru_news](https://huggingface.co/datasets/IlyaGusev/ru_news) | 0.789000 | 0.958475 | 0.963821 | 0.960424 |
 
 ## Вычислительные мощности 
 
